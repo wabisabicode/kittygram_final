@@ -8,7 +8,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'django-secret')
 
 DEBUG = os.getenv('DEBUG_MODE', 'True').lower() in ('true')
 
-ALLOWED_HOSTS = ['51.250.31.82', 'fintracker.de', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS_BACKEND', 'localhost').split(', ')
 
 INSTALLED_APPS = [
     'django.contrib.admin',
