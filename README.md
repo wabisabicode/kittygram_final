@@ -1,15 +1,28 @@
-# Финальное задание проекта Kittygram
+# 🐱 Kittygram Final Project
 
-Kittygram - новая социальная сеть, в которой любители котиков могут делиться фотографиями своих любимцев и их достижениями.
+**Kittygram** is a new social network where cat lovers can share photos of their feline friends and celebrate their achievements.
 
-## Технологии
+---
 
-Kittygram развёрнут с помощью микросервисов (контейнеров) на удалённом сервере. В нём широко применяются технолигии CI/CD на основе GitHub Actions.
+## 🛠️ Technologies
 
-## Разработчик
+Kittygram is deployed as a **microservices-based (containerized)** application on a remote server.
+The project implements **CI/CD practices** using **GitHub Actions**.
 
-Никита Третьяков
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/-Docker--compose-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-## Доступность
+---
 
-Сайт Kittygram - [fintracker.de](https://fintracker.de)
+## 👨‍💻 Developer
+
+**Nikita Tretyakov**
+
+---
+
+## 🌐 Availability
+
+Kittygram is live at: [fintracker.de](https://fintracker.de)
